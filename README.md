@@ -11,4 +11,4 @@ At the moment, the following tasks have been solved:
 - **Medium**: 6
 - **Hard**: 0
 
-**Everything is still ahead!**
+**Everything is still ahead!!!**
