@@ -8,7 +8,7 @@ Solving various LeetCode tasks. All tasks are divided into levels.
 
 At the moment, the following tasks have been solved: 
 - **Easy**: 44
-- **Medium**: 6
+- **Medium**: 7
 - **Hard**: 0
 
 **Everything is still ahead!!!**
