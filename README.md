@@ -7,7 +7,7 @@ Solving various LeetCode tasks. All tasks are divided into levels.
 - Hard
 
 At the moment, the following tasks have been solved: 
-- **Easy**: 44
+- **Easy**: 45
 - **Medium**: 8
 - **Hard**: 0
 
